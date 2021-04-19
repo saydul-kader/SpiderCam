@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1057480924375",
+    "firebase_url": "https://pibase-4de10-default-rtdb.firebaseio.com",
+    "project_id": "pibase-4de10",
+    "storage_bucket": "pibase-4de10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057480924375:android:2de112cd5bf297d2e36492",
+        "android_client_info": {
+          "package_name": "com.example.spidercam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057480924375-60qh3dnob3tvj8rfrapm10c30occ17h3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsi_3ReZ0TxrtGYNfk5z9Sh3RNkUCXFBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057480924375-60qh3dnob3tvj8rfrapm10c30occ17h3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
